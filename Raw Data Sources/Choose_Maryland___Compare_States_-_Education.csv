@@ -1,0 +1,56 @@
+State,"Public School Student-Teacher Ratio, K-12","Public School Expenditures Per Pupil, K-12 ($ Dollars)","Average Salary for Public School Teachers, K-12 ($ Dollars)",High School Attainment (%),Bachelor's Degree Attainment (%),Graduate Degree Attainment (%),Annual College Graduates,Number of 2-Year Colleges,Number of 4-Year Colleges and Universities
+Alabama,17.5,9257,50239,86.6,25.5,9.5,60282,30,42
+Alaska,17,17509,69474,93.3,30.2,11.7,4051,2,6
+Arizona,23.3,7772,47746,87.5,29.7,11.2,116243,36,42
+Arkansas,13.8,9900,49017,87.2,23.3,8.6,31878,27,26
+California,23.3,11420,81126,83.8,34.2,12.9,461909,172,269
+Colorado,17.4,9618,52389,91.9,41.7,15.7,65824,31,48
+Connecticut,12.6,19614,73113,90.9,39.6,17.8,43898,12,31
+Delaware,14.8,14397,60484,89.8,31.3,13.1,13320,1,7
+Florida,15.1,9175,47721,88.5,30.4,11.3,240683,60,141
+Georgia,15.4,9835,56329,87.6,31.9,12.3,95148,46,77
+Hawaii,15.4,13748,57866,92,33.5,11.5,13534,7,13
+Idaho,18.3,7178,49225,90.9,27.7,9,19357,5,12
+Illinois,15.7,14327,65776,89.5,35.1,14,168460,63,108
+Indiana,17.4,9690,54846,89,27.1,9.8,81953,13,67
+Iowa,14.2,11148,56790,92.3,29,9.4,54057,18,44
+Kansas,13.7,10216,50403,91,33.8,12.8,40115,30,39
+Kentucky,16.3,9831,52952,86.8,24.8,10.3,47968,24,43
+Louisiana,14.8,11168,50256,85.8,24.3,8.4,39311,30,30
+Maine,12.2,14202,51663,93,31.5,11.4,13453,10,21
+Maryland,14.8,14522,69761,90.5,40.8,18.9,73372,21,35
+Massachusetts,13.3,16985,79710,90.8,44.5,20.1,122365,21,95
+Michigan,18.3,11051,62702,91.1,29.6,11.5,117323,29,65
+Minnesota,15.4,12363,57782,93.4,36.7,12.5,84518,34,61
+Mississippi,15.1,8692,43107,85.4,23.2,8.8,35313,20,18
+Missouri,13.5,10384,49208,90.5,29.5,11.5,86213,35,80
+Montana,13.9,11373,52776,93.9,31.7,11,9938,12,11
+Nebraska,13.5,12378,53473,91.4,32.4,11.1,27016,13,28
+Nevada,20,8753,57812,86.9,24.9,8.7,18391,9,15
+New Hampshire,12.3,15534,57833,93.1,36.8,14.5,26634,8,17
+New Jersey,12.2,19040,69917,90.2,40.8,16,87367,22,53
+New Mexico,15.8,9958,47839,85.4,27.7,12,23623,22,20
+New York,13.1,22231,83585,87.1,37.2,16.4,292685,63,238
+North Carolina,15.5,8716,50861,88.2,31.9,11.4,112634,69,75
+North Dakota,11.8,13358,54421,92.3,29.7,7.6,11012,5,15
+Ohio,16.7,11933,58000,90.7,29,11.1,133940,65,120
+Oklahoma,16.9,8090,45678,88.4,25.6,9,41085,23,36
+Oregon,20.4,10823,63143,90.5,34,12.9,47756,20,37
+Pennsylvania,14.1,15165,67398,91,31.8,12.7,165658,80,159
+Rhode Island,13.3,16082,66758,89.1,34.4,14.5,19198,1,12
+South Carolina,15.2,10045,51027,88.4,28.3,10.4,45108,31,42
+South Dakota,13.9,9335,47944,92.3,29.2,9,10345,5,18
+Tennessee,15.6,8876,50900,87.8,27.5,10.2,65500,34,66
+Texas,15.2,9351,53167,84,30.3,10.7,286578,117,144
+Utah,22.9,7006,47604,92.4,34.9,12,65196,3,29
+Vermont,10.8,19022,58527,93.5,38.7,15.6,10322,1,22
+Virginia,14,11434,51265,89.9,39.3,17.1,112863,44,78
+Washington,18.7,11484,55175,91.6,36.7,13.9,77167,15,65
+Washington D.C.,12.8,21134,76486,92.1,60.4,34.5,25748,1,18
+West Virginia,14.1,11424,45642,87.8,21.3,8.5,30363,18,26
+Wisconsin,14.6,11664,55895,92.1,30,10.6,61958,19,57
+Wyoming,12.5,16431,58578,93.3,26.9,10,5679,8,2
+Source,National Center for Education Statistics,National Center for Education Statistics,National Center for Education Statistics,U.S. Census Bureau,U.S. Census Bureau,U.S. Census Bureau,National Center for Education Statistics,National Center for Education Statistics,National Center for Education Statistics
+Date of Data,Date of Data: Fall 2016,Date of Data: 2015-2016,Date of Data: 2017-2018,Date of Data: 2018,Date of Data: 2018,Date of Data: 2018,Date of Data: 2016-2017,Date of Data: 2017-2018,Date of Data: 2017-2018
+Note,,,,Percentage of the population age 25 and older who have completed high school.,Percentage of the population age 25 and older who have obtained a Bachelor's degree or higher.,Percentage of the population age 25 and older who have obtained a graduate or professional degree.,"Earned degrees conferred by degree-granting institutions. Includes Associate's, Bachelor's, Master's and Doctorates. Does not include service academies.",,Excludes service academies.
+Quote,"""Maryland's student-teacher ratio is well below the national average.""","""Spending on public education in Maryland exceeds the U.S. average by nearly $2,700 per pupil.""","""Maryland is among the top ten states in public school teacher pay.""","""Maryland's workforce is among the most highly educated in the nation.""","""Maryland ranks third among the states for bachelor's degree attainment.""","""Maryland ranks second among the states in the percentage of graduate and professional degree holders.""","""Maryland is home to world-renowned schools including Johns Hopkins University and the University of Maryland.""","""Maryland's community colleges offer comprehensive career training throughout the state.""","""Twelve institutions of the University System of Maryland are complemented by Johns Hopkins and other quality universities."""
